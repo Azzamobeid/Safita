@@ -1,0 +1,14 @@
+#output {
+  height : 100px;
+  font-size: 24px;
+  text-align: center;
+  color: red;
+
+}
+#pageHead {
+  background-color: #6fe87d;
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+  margin-left: 0;
+}
